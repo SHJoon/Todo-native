@@ -9,4 +9,8 @@ const Task = () => {
   );
 };
 
+const styles = StyleSheet.create({
+
+});
+
 export default Task;
